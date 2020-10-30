@@ -1,0 +1,12 @@
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/bin/Debug/netcoreapp3.1/FPTeme.deps.json
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/bin/Debug/netcoreapp3.1/FPTeme.runtimeconfig.json
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/bin/Debug/netcoreapp3.1/FPTeme.runtimeconfig.dev.json
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/bin/Debug/netcoreapp3.1/FPTeme.dll
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/bin/Debug/netcoreapp3.1/FPTeme.pdb
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/Debug/netcoreapp3.1/FPTeme.csprojAssemblyReference.cache
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/Debug/netcoreapp3.1/FPTeme.AssemblyInfoInputs.cache
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/Debug/netcoreapp3.1/FPTeme.AssemblyInfo.cs
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/Debug/netcoreapp3.1/FPTeme.csproj.CoreCompileInputs.cache
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/Debug/netcoreapp3.1/FPTeme.dll
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/Debug/netcoreapp3.1/FPTeme.pdb
+/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/Debug/netcoreapp3.1/FPTeme.genruntimeconfig.cache
