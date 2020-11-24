@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/FPTeme.csproj",
+      "projectUniqueName": "/Users/cristutiu/C# Projects/TemaFPCurs/FPTeme.csproj",
       "projectName": "FPTeme",
-      "projectPath": "/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/FPTeme.csproj",
+      "projectPath": "/Users/cristutiu/C# Projects/TemaFPCurs/FPTeme.csproj",
       "packagesPath": "/Users/cristutiu/.nuget/packages/",
-      "outputPath": "/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme/obj/",
+      "outputPath": "/Users/cristutiu/C# Projects/TemaFPCurs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cristutiu/.config/NuGet/NuGet.Config"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
