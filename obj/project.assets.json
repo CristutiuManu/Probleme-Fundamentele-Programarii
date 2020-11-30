@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristutiu/C# Projects/TemaFPCurs/FPTeme.csproj",
+      "projectUniqueName": "/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme.csproj",
       "projectName": "FPTeme",
-      "projectPath": "/Users/cristutiu/C# Projects/TemaFPCurs/FPTeme.csproj",
+      "projectPath": "/Users/cristutiu/Probleme-Fundamentele-Programarii/FPTeme.csproj",
       "packagesPath": "/Users/cristutiu/.nuget/packages/",
-      "outputPath": "/Users/cristutiu/C# Projects/TemaFPCurs/obj/",
+      "outputPath": "/Users/cristutiu/Probleme-Fundamentele-Programarii/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cristutiu/.config/NuGet/NuGet.Config"
